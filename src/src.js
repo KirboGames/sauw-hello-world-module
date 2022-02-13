@@ -1,3 +1,3 @@
 function test() {
-    console.log("Hello, World!")
+    java.lang.System.out.println("Hello, World!");
 }
