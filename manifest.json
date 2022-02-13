@@ -1,4 +1,4 @@
 {
-  "name": "ModuleName",
-  "executable": "test"
+  "name": "hello-world",
+  "executable": "helloWorld"
 }
